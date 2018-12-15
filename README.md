@@ -7,6 +7,8 @@ __[Try the app!](https://infinite-tundra-69252.herokuapp.com/)__
 
 __[Link to the slidedeck where we presented our intial findings on coffee culture in Shanghai.](https://docs.google.com/presentation/d/1FIdnVKRT0-wZto-fW20KC3DdyYzKevz4l2S3Zs0zMx0/edit?usp=sharing)__
 
+**__This project was created for Christian Grewell's Application Lab class in Fall of 2018.__**
+
 
 
 
