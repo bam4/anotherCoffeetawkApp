@@ -2,6 +2,9 @@
 ### Purpose of this App:
 With this app, we would wanted to create an easy way for coffee company employees to gather information about their clientele.
 
+### Our Central Question
+Is there a relationship between coffee consumption and the amount of tech a customer uses while in the coffee shop/cafe? 
+
 
 __[Try the app!](https://infinite-tundra-69252.herokuapp.com/)__
 
