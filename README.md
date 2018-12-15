@@ -1,3 +1,19 @@
+
+### Purpose of this App:
+With this app, we would wanted to create an easy way for coffee company employees to gather information about their clientele.
+
+
+__[Try the app!](https://infinite-tundra-69252.herokuapp.com/)__
+
+__[Link to the slidedeck where we presented our intial findings on coffee culture in Shanghai.](https://docs.google.com/presentation/d/1FIdnVKRT0-wZto-fW20KC3DdyYzKevz4l2S3Zs0zMx0/edit?usp=sharing)__
+
+
+
+
+
+
+# React Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
